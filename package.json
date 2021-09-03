@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "node-sass": "^6.0.0"
+  },
+  "name": "online-resume",
+  "version": "1.0.0",
+  "description": "Resume Project of Oratilwe Rapoo",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algorxthm/online_resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Oratilwe Rapoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/algorxthm/online_resume/issues"
+  },
+  "homepage": "https://github.com/algorxthm/online_resume#readme"
+}
